@@ -46,29 +46,29 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-  ![Mongoose](https://img.shields.io/badge/mongoose-%23E0234E.svg?style=for-the-badge&logo=mongoose.js&logoColor=white) 
-  ![SequalizeORM](https://img.shields.io/badge/sequalize-%23E0234E.svg?style=for-the-badge&logo=sequalize.js&logoColor=white) 
-  ![TypeORM](https://img.shields.io/badge/typeorm-%23E0234E.svg?style=for-the-badge&logo=typeorm.js&logoColor=white) 
+  ![Mongoose](https://img.shields.io/badge/mongoose-%23E0234E.svg?style=for-the-badge&logo=mongoose&logoColor=white) 
+  ![SequalizeORM](https://img.shields.io/badge/sequalize-%23E0234E.svg?style=for-the-badge&logo=sequalize&logoColor=white) 
+  ![TypeORM](https://img.shields.io/badge/typeorm-%23E0234E.svg?style=for-the-badge&logo=typeorm&logoColor=white) 
   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 
   
   ### Microsoft Technology:
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![WebAPI](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![WebMVC](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![WinForm](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![Ado.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![LinQ](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![EntityFramwork](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![CrystalReport](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+  ![WebAPI](https://img.shields.io/badge/.NETAPI-5C2D91?style=for-the-badge&logo=WEBAPI&logoColor=white) 
+  ![WebMVC](https://img.shields.io/badge/.NETMVC-5C2D91?style=for-the-badge&logo=WEBMVC&logoColor=white) 
+  ![WinForm](https://img.shields.io/badge/WINFORM-5C2D91?style=for-the-badge&logo=WINFORM&logoColor=white) 
+  ![Ado.Net](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=ADO.NET&logoColor=white) 
+  ![LinQ](https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge&logo=LINQ&logoColor=white) 
+  ![EntityFramwork](https://img.shields.io/badge/ENTITYFRAMEWORK-5C2D91?style=for-the-badge&logo=EntityFrameWork&logoColor=white) 
+  ![CrystalReport](https://img.shields.io/badge/CRYSTALREPORT-5C2D91?style=for-the-badge&logo=CrystalReport&logoColor=white) 
   
   
   #### Java Technology:
-  ![SpringMVC](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-  ![SpringBoot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-  ![Hibernate](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-  ![JPA](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-  ![JDBC](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+  ![SpringMVC](https://img.shields.io/badge/spring-mvc-%236DB33F.svg?style=for-the-badge&logo=spring-mvc&logoColor=white) 
+  ![SpringBoot](https://img.shields.io/badge/spring-boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
+  ![Hibernate](https://img.shields.io/badge/hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
+  ![JPA](https://img.shields.io/badge/jpa-%236DB33F.svg?style=for-the-badge&logo=jpa&logoColor=white) 
+  ![JDBC](https://img.shields.io/badge/jdbc-%236DB33F.svg?style=for-the-badge&logo=jdbc&logoColor=white) 
   <br>
   
   ### Python Technology:
