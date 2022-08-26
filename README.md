@@ -96,7 +96,14 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   
   
   #### Software & Tools:
+  
+  ![WINDOWS](https://img.shields.io/badge/WINDOWS-5E5A80.svg?style=for-the-badge&logo=WINDOWS&logoColor=white) 
+  ![LINUX](https://img.shields.io/badge/LINUX-CA226B.svg?style=for-the-badge&logo=LINUX&logoColor=white) 
+  ![GITHUB](https://img.shields.io/badge/GITHUB-838996.svg?style=for-the-badge&logo=GITHUB&logoColor=white)
+  ![CICD](https://img.shields.io/badge/CICD-%23000000.svg?style=for-the-badge&logo=CICD&logoColor=white)
+  ![CPANEL](https://img.shields.io/badge/CPANEL-%23000000.svg?style=for-the-badge&logo=CPANEL&logoColor=white) 
   ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+  ![GIT](https://img.shields.io/badge/GIT-%23000000.svg?style=for-the-badge&logo=GIT&logoColor=white) 
   ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) 
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
