@@ -127,14 +127,14 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
 <br/>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=YeasinSE&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" /> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&theme=dracula&langs_count=8&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YeasinSE&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=YeasinSE&theme=dracula&no-frame=true&no-bg=false&margin-w=2)
 
 <!--
 ### ✍️ Random Dev Quote
