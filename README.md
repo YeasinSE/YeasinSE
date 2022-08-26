@@ -134,7 +134,7 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) -->
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YeasinSE&theme=dracula&no-frame=true&no-bg=false&margin-w=2&row=1&column=8)
+![](https://github-profile-trophy.vercel.app/?username=YeasinSE&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1&column=8)
 
 <!--
 ### ✍️ Random Dev Quote
