@@ -54,13 +54,13 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   
   ### Microsoft Technology:
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![WebAPI](https://img.shields.io/badge/.NETAPI-5C2D91?style=for-the-badge&logo=WEBAPI&logoColor=white) 
-  ![WebMVC](https://img.shields.io/badge/.NETMVC-5C2D91?style=for-the-badge&logo=WEBMVC&logoColor=white) 
+  ![WebAPI](https://img.shields.io/badge/.WEBAPI-5C2D91?style=for-the-badge&logo=WEBAPI&logoColor=white) 
+  ![WebMVC](https://img.shields.io/badge/.WEBMVC-5C2D91?style=for-the-badge&logo=WEBMVC&logoColor=white) 
   ![WinForm](https://img.shields.io/badge/WINFORM-5C2D91?style=for-the-badge&logo=WINFORM&logoColor=white) 
   ![Ado.Net](https://img.shields.io/badge/ADO.NET-5C2D91?style=for-the-badge&logo=ADO.NET&logoColor=white) 
-  ![LinQ](https://img.shields.io/badge/LINQ-5C2D91?style=for-the-badge&logo=LINQ&logoColor=white) 
-  ![EntityFramwork](https://img.shields.io/badge/ENTITYFRAMEWORK-5C2D91?style=for-the-badge&logo=EntityFrameWork&logoColor=white) 
-  ![CrystalReport](https://img.shields.io/badge/CRYSTALREPORT-5C2D91?style=for-the-badge&logo=CrystalReport&logoColor=white) 
+  ![LinQ](https://img.shields.io/badge/LINQ-5C2D59?style=for-the-badge&logo=LINQ&logoColor=white) 
+  ![EntityFramwork](https://img.shields.io/badge/ENTITYFRAMEWORK-5C2D9c?style=for-the-badge&logo=EntityFrameWork&logoColor=white) 
+  ![CrystalReport](https://img.shields.io/badge/CRYSTALREPORT-5C2D55?style=for-the-badge&logo=CrystalReport&logoColor=white) 
   
   
   #### Java Technology:
