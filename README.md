@@ -64,11 +64,11 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   
   
   #### Java Technology:
-  ![SpringMVC](https://img.shields.io/badge/spring-mvc-%236DB33F.svg?style=for-the-badge&logo=spring-mvc&logoColor=white) 
-  ![SpringBoot](https://img.shields.io/badge/spring-boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
-  ![Hibernate](https://img.shields.io/badge/hibernate-%236DB33F.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
-  ![JPA](https://img.shields.io/badge/jpa-%236DB33F.svg?style=for-the-badge&logo=jpa&logoColor=white) 
-  ![JDBC](https://img.shields.io/badge/jdbc-%236DB33F.svg?style=for-the-badge&logo=jdbc&logoColor=white) 
+  ![SpringMVC](https://img.shields.io/badge/springmvc-583759.svg?style=for-the-badge&logo=spring-mvc&logoColor=white) 
+  ![SpringBoot](https://img.shields.io/badge/springboot-5E5A80.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
+  ![Hibernate](https://img.shields.io/badge/hibernate-4B0150.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
+  ![JPA](https://img.shields.io/badge/jpa-571B7E.svg?style=for-the-badge&logo=jpa&logoColor=white) 
+  ![JDBC](https://img.shields.io/badge/jdbc-36013F.svg?style=for-the-badge&logo=jdbc&logoColor=white) 
   <br>
   
   ### Python Technology:
