@@ -46,9 +46,9 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
-  ![Mongoose](https://img.shields.io/badge/mongoose-%23E0234E.svg?style=for-the-badge&logo=mongoose&logoColor=white) 
-  ![SequalizeORM](https://img.shields.io/badge/sequalize-%23E0234E.svg?style=for-the-badge&logo=sequalize&logoColor=white) 
-  ![TypeORM](https://img.shields.io/badge/type-orm-%23E0234E.svg?style=for-the-badge&logo=type-orm&logoColor=white) 
+  ![Mongoose](https://img.shields.io/badge/mongoose-%23E0234E.svg?style=for-the-badge&logo=mongoose.js&logoColor=white) 
+  ![SequalizeORM](https://img.shields.io/badge/sequalize-%23E0234E.svg?style=for-the-badge&logo=sequalize.js&logoColor=white) 
+  ![TypeORM](https://img.shields.io/badge/typeorm-%23E0234E.svg?style=for-the-badge&logo=typeorm.js&logoColor=white) 
   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 
   
