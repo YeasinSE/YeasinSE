@@ -123,7 +123,7 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
 
 # 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=YeasinSE&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=YeasinSE&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YeasinSE&theme=dracula&hide_border=true)<br/>
 <!--
