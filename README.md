@@ -48,24 +48,24 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
   ![Mongoose](https://img.shields.io/badge/mongoose-3B3131.svg?style=for-the-badge&logo=mongoose&logoColor=white) 
   ![SequalizeORM](https://img.shields.io/badge/sequalize-3A3B3C.svg?style=for-the-badge&logo=sequalize&logoColor=white) 
-  ![TypeORM](https://img.shields.io/badge/typeorm-34282C.svg?style=for-the-badge&logo=typeorm&logoColor=white) 
+  ![TypeORM](https://img.shields.io/badge/type-orm-34282C.svg?style=for-the-badge&logo=typeorm&logoColor=white) 
   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 
   
   #### Microsoft Technology:
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-  ![WebAPI](https://img.shields.io/badge/WEBAPI-34282C?style=for-the-badge&logo=WEBAPI&logoColor=white) 
-  ![WebMVC](https://img.shields.io/badge/WEBMVC-3A3B3C?style=for-the-badge&logo=WEBMVC&logoColor=white) 
+  ![WebAPI](https://img.shields.io/badge/WEB-API-454545?style=for-the-badge&logo=WEBAPI&logoColor=white) 
+  ![WebMVC](https://img.shields.io/badge/WEB-MVC-3A3B3C?style=for-the-badge&logo=WEBMVC&logoColor=white) 
   ![WinForm](https://img.shields.io/badge/WINFORM-454545?style=for-the-badge&logo=WINFORM&logoColor=white) 
   ![Ado.Net](https://img.shields.io/badge/ADO.NET-52595D?style=for-the-badge&logo=ADO.NET&logoColor=white) 
   ![LinQ](https://img.shields.io/badge/LINQ-5C2D59?style=for-the-badge&logo=LINQ&logoColor=white) 
-  ![EntityFramwork](https://img.shields.io/badge/ENTITYFRAMEWORK-5C2D9c?style=for-the-badge&logo=EntityFrameWork&logoColor=white) 
-  ![CrystalReport](https://img.shields.io/badge/CRYSTALREPORT-5C2D55?style=for-the-badge&logo=CrystalReport&logoColor=white) 
+  ![EntityFramwork](https://img.shields.io/badge/ENTITY-FRAMEWORK-5C2D9c?style=for-the-badge&logo=EntityFrameWork&logoColor=white) 
+  ![CrystalReport](https://img.shields.io/badge/CRYSTAL-REPORT-5C2D55?style=for-the-badge&logo=CrystalReport&logoColor=white) 
   
   
   #### Java Technology:
-  ![SpringMVC](https://img.shields.io/badge/springmvc-583759.svg?style=for-the-badge&logo=spring-mvc&logoColor=white) 
-  ![SpringBoot](https://img.shields.io/badge/springboot-5E5A80.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
+  ![SpringMVC](https://img.shields.io/badge/spring-mvc-583759.svg?style=for-the-badge&logo=spring-mvc&logoColor=white) 
+  ![SpringBoot](https://img.shields.io/badge/spring-boot-5E5A80.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
   ![Hibernate](https://img.shields.io/badge/hibernate-4B0150.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
   ![JPA](https://img.shields.io/badge/jpa-571B7E.svg?style=for-the-badge&logo=jpa&logoColor=white) 
   ![JDBC](https://img.shields.io/badge/jdbc-36013F.svg?style=for-the-badge&logo=jdbc&logoColor=white) 
