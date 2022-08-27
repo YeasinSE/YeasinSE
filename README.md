@@ -127,6 +127,8 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=YeasinSE&theme=dracula&hide_border=true&no-frame=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
+
+![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=krushnatkhawale&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnatkhawale&layout=compact)
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" /> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
