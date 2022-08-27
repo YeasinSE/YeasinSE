@@ -12,10 +12,10 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/yeasin-eng)-->
 
 # 💻 Tech Stack:
-  #### Programming Langueses:
+  #### Programming Language:
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
@@ -49,7 +49,7 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![Mongoose](https://img.shields.io/badge/mongoose-3B3131.svg?style=for-the-badge&logo=mongoose&logoColor=white) 
   ![SequalizeORM](https://img.shields.io/badge/sequalize-3A3B3C.svg?style=for-the-badge&logo=sequalize&logoColor=white) 
   ![TypeORM](https://img.shields.io/badge/type-orm-34282C.svg?style=for-the-badge&logo=typeorm&logoColor=white) 
-  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+<!--   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) -->
 
   
   #### Microsoft Technology:
@@ -75,14 +75,14 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
 <!--   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  -->
 <!--   ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)  -->
 
-  #### Python Technology:
+<!--   #### Python Technology:
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
   ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-  ![Django](https://img.shields.io/badge/django-4B0150.svg?style=for-the-badge&logo=django&logoColor=white) 
+  ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  -->
+<!--   ![Django](https://img.shields.io/badge/django-4B0150.svg?style=for-the-badge&logo=django&logoColor=white)  -->
  
   
   #### Databases:
@@ -123,7 +123,7 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
 
 # 📊 GitHub Stats:
-[![Yeasin](https://github-readme-stats.vercel.app/api?username=YeasinSE&&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
+[![Yeasin](https://github-readme-stats.vercel.app/api?username=YeasinSE&token=${{secrets.GITHUB_TOKEN }}&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60)](https://github.com/anuraghazra/github-readme-stats)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=YeasinSE&theme=dracula&hide_border=true&no-frame=true)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" /> -->
