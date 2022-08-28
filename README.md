@@ -98,6 +98,13 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
   
   
+  #### Software Testing:
+  
+  ![UnitTesting](https://img.shields.io/badge/UNIT-TESTING-5E5A80.svg?style=for-the-badge&logo=UNIT-TESTING&logoColor=white) 
+  ![IntegrationTesing](https://img.shields.io/badge/INTEGRATION-TESTING-FF6C37.svg?style=for-the-badge&logo=INTEGRATION-TESTING&logoColor=white) 
+  ![SystemTesting](https://img.shields.io/badge/SYSTEM-TESTING-%23D42029.svg?style=for-the-badge&logo=SYSTEM-TESTING&logoColor=white)
+  
+  
   #### Software & Tools:
   
   ![WINDOWS](https://img.shields.io/badge/WINDOWS-5E5A80.svg?style=for-the-badge&logo=WINDOWS&logoColor=white) 
@@ -119,11 +126,6 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
   
 
-  #### Software Testing:
-  
-  ![UnitTesting](https://img.shields.io/badge/UNIT-TESTING-5E5A80.svg?style=for-the-badge&logo=WINDOWS&logoColor=white) 
-  ![IntegrationTesing](https://img.shields.io/badge/INTEGRATION-TESTING-CA226B.svg?style=for-the-badge&logo=LINUX&logoColor=white) 
-  ![SystemTesting](https://img.shields.io/badge/SYSTEM-TESTING-838996.svg?style=for-the-badge&logo=GITHUB&logoColor=white)
   
 <!--   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
   ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
