@@ -13,11 +13,11 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
 
 # 💻 Tech Stack:
   #### Programming Language:
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -126,7 +126,7 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
 <!-- [![Yeasin](https://github-readme-stats.vercel.app/api?username=YeasinSE&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=YeasinSE&theme=dracula&hide_border=true&no-frame=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+
 
 <!-- ![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=YeasinSE&show_icons=true)  -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact) -->
@@ -136,8 +136,9 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&theme=dracula&langs_count=8&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) -->
 
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YeasinSE&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1&column=8&include_all_commits=true&count_private=true)
+![](https://github-profile-trophy.vercel.app/?username=YeasinSE&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=1&column=8&include_all_commits=true&count_private=true) -->
 
 <!--
 ### ✍️ Random Dev Quote
