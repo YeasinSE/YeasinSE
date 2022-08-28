@@ -126,7 +126,7 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
   
 # 📊 GitHub Stats:
-[![](https://github-readme-streak-stats.herokuapp.com/?user=YeasinSE&theme=dracula&hide_border=true&no-frame=true&include_all_commits=true&count_private=true)](https://github.com/YeasinSE)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=YeasinSE&theme=dracula&hide_border=true&no-frame=true&count_private=true)](https://github.com/YeasinSE)
 
 <!-- [![Yeasin](https://github-readme-stats.vercel.app/api?username=YeasinSE&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <br>
