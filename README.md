@@ -125,17 +125,13 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
   
-
-  
-<!--   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-  ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
-  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
-
 # 📊 GitHub Stats:
-<!-- [![Yeasin](https://github-readme-stats.vercel.app/api?username=YeasinSE&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
 [![](https://github-readme-streak-stats.herokuapp.com/?user=YeasinSE&theme=dracula&hide_border=true&no-frame=true&include_all_commits=true&count_private=true)](https://github.com/YeasinSE)
 
+<!-- [![Yeasin](https://github-readme-stats.vercel.app/api?username=YeasinSE&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- <br>
+![YeasinSE Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=YeasinSE&custom_title=Yeasin%20Trips's%20Contribution%20Graph&theme=github) -->
+  
 
 <!-- ![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=YeasinSE&show_icons=true)  -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact) -->
@@ -165,9 +161,7 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yeasin) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
-<br>
-
-![YeasinSE Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=YeasinSE&custom_title=Yeasin%20Trips's%20Contribution%20Graph&theme=github)
-<!-- (https://abhigyantrips.dev) -->
-  
+  <!--
+    ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+    ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
+    ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
