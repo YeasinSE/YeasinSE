@@ -1,5 +1,9 @@
-# 💫 About Me:
-Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
+## 💫 About Me:
+Hi 👋, I'm MD Yeasin<br>To serve as a Polyglot back-end software engineer from bangladesh. 
+A highly experienced and creative developer with 7+ years’ experience in a variety of exciting project. 
+I can learn to any technology very quickly and ability to developing complete project on one hand. 
+I has experienced to developed many project in different company and freelancing team. 
+Some major project are Payment Gateway system, tourist management system, SMS-Gateway application (web and app), developed Stock, inventory and Accounting Software (Desktop Based) and Ecommerce application.
 
 
 ## 🌐 Socials:
