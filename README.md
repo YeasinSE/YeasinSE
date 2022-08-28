@@ -16,11 +16,11 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
   ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+<!--   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  -->
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
  
   #### Cloud Technology:
@@ -48,7 +48,10 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) 
   ![Mongoose](https://img.shields.io/badge/mongoose-3B3131.svg?style=for-the-badge&logo=mongoose&logoColor=white) 
   ![SequalizeORM](https://img.shields.io/badge/sequalize-3A3B3C.svg?style=for-the-badge&logo=sequalize&logoColor=white) 
-  ![TypeORM](https://img.shields.io/badge/type-orm-34282C.svg?style=for-the-badge&logo=typeorm&logoColor=white) 
+  ![TypeORM](https://img.shields.io/badge/type-orm-34282C.svg?style=for-the-badge&logo=typeorm&logoColor=white)
+<!--   ![Mocha](https://img.shields.io/badge/mocha-AB784E.svg?style=for-the-badge&logo=Mocha&logoColor=white)
+  ![Jest](https://img.shields.io/badge/jest-32CD32.svg?style=for-the-badge&logo=Jest&logoColor=white)
+  ![Jesmin](https://img.shields.io/badge/jesmin-32CD32.svg?style=for-the-badge&logo=Jesmin&logoColor=white) -->
 <!--   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) -->
 
   
@@ -115,9 +118,13 @@ Hi 👋, I'm MD Yeasin<br>A passionate back-end engineer from Bangladesh
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
   
-  <br>
-  
 
+  #### Software Testing:
+  
+  ![UnitTesting](https://img.shields.io/badge/UNIT-TESTING-5E5A80.svg?style=for-the-badge&logo=WINDOWS&logoColor=white) 
+  ![IntegrationTesing](https://img.shields.io/badge/INTEGRATION-TESTING-CA226B.svg?style=for-the-badge&logo=LINUX&logoColor=white) 
+  ![SystemTesting](https://img.shields.io/badge/SYSTEM-TESTING-838996.svg?style=for-the-badge&logo=GITHUB&logoColor=white)
+  
 <!--   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
   ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
