@@ -5,9 +5,8 @@ I can learn to any technology very quickly and ability to developing complete pr
 I has experienced to developed many project in different company and freelancing team. 
 Some major project are Payment Gateway system, tourist management system, SMS-Gateway application (web and app), developed Stock, inventory and Accounting Software (Desktop Based) and Ecommerce application.
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yeasin-eng) 
+<!-- ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yeasin-eng)  -->
 
 <!--[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yeasin-eng) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeasin-eng) 
