@@ -108,7 +108,7 @@ Some major project are Payment Gateway system, tourist management system, SMS-Ga
   ![SystemTesting](https://img.shields.io/badge/SYSTEM-TESTING-%23D42029.svg?style=for-the-badge&logo=SYSTEM-TESTING&logoColor=white)
   
   
-  #### Software & Tools:
+  #### OS & Tools:
   
   ![WINDOWS](https://img.shields.io/badge/WINDOWS-5E5A80.svg?style=for-the-badge&logo=WINDOWS&logoColor=white) 
   ![LINUX](https://img.shields.io/badge/LINUX-CA226B.svg?style=for-the-badge&logo=LINUX&logoColor=white) 
