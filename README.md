@@ -34,13 +34,13 @@ Some major project are Payment Gateway system, tourist management system, SMS-Ga
   
 
   #### Front-end Technology:
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 <!--   ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)  -->
   
   
@@ -59,7 +59,7 @@ Some major project are Payment Gateway system, tourist management system, SMS-Ga
 
   
   #### Microsoft Technology:
-  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+  ![.NetFramework](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
   ![WebAPI](https://img.shields.io/badge/WEB-API-%23FF9900?style=for-the-badge&logo=WEBAPI&logoColor=white) 
   ![WebMVC](https://img.shields.io/badge/WEB-MVC-%230167ff?style=for-the-badge&logo=WEBMVC&logoColor=white) 
   ![WinForm](https://img.shields.io/badge/WINFORM-4B0150?style=for-the-badge&logo=WINFORM&logoColor=white) 
