@@ -59,7 +59,7 @@ Some major project are Payment Gateway system, tourist management system, SMS-Ga
 
   
   #### Microsoft Technology:
-  ![.NetFramework](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+  ![.NetFramework](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.NET-FRAMEWORK&logoColor=white) 
   ![WebAPI](https://img.shields.io/badge/WEB-API-%23FF9900?style=for-the-badge&logo=WEBAPI&logoColor=white) 
   ![WebMVC](https://img.shields.io/badge/WEB-MVC-%230167ff?style=for-the-badge&logo=WEBMVC&logoColor=white) 
   ![WinForm](https://img.shields.io/badge/WINFORM-4B0150?style=for-the-badge&logo=WINFORM&logoColor=white) 
