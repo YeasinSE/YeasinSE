@@ -141,9 +141,9 @@ Some major project are Payment Gateway system, tourist management system, SMS-Ga
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact&count_private=true&langs_count=8&card_width=445&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=db1cff&hide_border=true/" /> -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE)](https://github.com/anuraghazra/github-readme-stats) -->
-<--
+<!--
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&theme=dracula&langs_count=8&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)-->
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=YeasinSE&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff) -->
 
 <!--
 ## 🏆 GitHub Trophies
