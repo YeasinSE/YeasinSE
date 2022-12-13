@@ -38,9 +38,9 @@ Some major project are Payment Gateway system, tourist management system, SMS-Ga
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) 
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+  <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  -->
 <!--   ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)  -->
   
   
@@ -66,15 +66,15 @@ Some major project are Payment Gateway system, tourist management system, SMS-Ga
   ![Ado.Net](https://img.shields.io/badge/ADO.NET-%234ea94b?style=for-the-badge&logo=ADO.NET&logoColor=white) 
   ![LinQ](https://img.shields.io/badge/LINQ-5C2D59?style=for-the-badge&logo=LINQ&logoColor=white) 
   ![EntityFramwork](https://img.shields.io/badge/ENTITY-FRAMEWORK-5C2D9c?style=for-the-badge&logo=EntityFrameWork&logoColor=white) 
-  ![CrystalReport](https://img.shields.io/badge/CRYSTAL-REPORT-5C2D55?style=for-the-badge&logo=CrystalReport&logoColor=white) 
+  <!-- ![CrystalReport](https://img.shields.io/badge/CRYSTAL-REPORT-5C2D55?style=for-the-badge&logo=CrystalReport&logoColor=white) -->
   
   
   #### Java Technology:
-  ![SpringMVC](https://img.shields.io/badge/spring-mvc-583759.svg?style=for-the-badge&logo=spring-mvc&logoColor=white) 
   ![SpringBoot](https://img.shields.io/badge/spring-boot-5E5A80.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
   ![Hibernate](https://img.shields.io/badge/hibernate-4B0150.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
   ![JPA](https://img.shields.io/badge/jpa-571B7E.svg?style=for-the-badge&logo=jpa&logoColor=white) 
   ![JDBC](https://img.shields.io/badge/jdbc-36013F.svg?style=for-the-badge&logo=jdbc&logoColor=white) 
+  <!-- ![SpringMVC](https://img.shields.io/badge/spring-mvc-583759.svg?style=for-the-badge&logo=spring-mvc&logoColor=white) --?
   <br>
   
 <!--   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  -->
