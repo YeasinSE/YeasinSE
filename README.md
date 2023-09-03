@@ -14,7 +14,7 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yeasin-eng) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/yeasin-eng)-->
 
-<!--
+<!-- 
 
 # 💻 Tech Stack:
   #### Programming Language:
@@ -27,16 +27,15 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
   <!-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) --?
 
-  <!--   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  --> -->
+  <!--   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  -->
 
-  <!--
   #### Cloud Technology:
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
   ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-  <!-- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) --> -->
+  <!-- ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
   
-  <!--
+
   #### Front-end Technology:
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
@@ -45,9 +44,9 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
   <!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) 
   ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  -->
-<!--   ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)  --> -->
+<!--   ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)  -->
   
-  <!--
+
   #### Javascript Back-end Technology:
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
@@ -59,9 +58,9 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
 <!--   ![Mocha](https://img.shields.io/badge/mocha-AB784E.svg?style=for-the-badge&logo=Mocha&logoColor=white)
   ![Jest](https://img.shields.io/badge/jest-32CD32.svg?style=for-the-badge&logo=Jest&logoColor=white)
   ![Jesmin](https://img.shields.io/badge/jesmin-32CD32.svg?style=for-the-badge&logo=Jesmin&logoColor=white) -->
-<!--   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) --> -->
+<!--   ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) -->
 
- <!--
+
   #### Microsoft Technology:
   ![.NetFramework](https://img.shields.io/badge/.NET-FRAMEWORK-5C2D91?style=for-the-badge&logo=.NETFRAMEWORK&logoColor=white) 
   ![WebAPI](https://img.shields.io/badge/WEB-API-%23FF9900?style=for-the-badge&logo=WEBAPI&logoColor=white) 
@@ -70,8 +69,8 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
   ![Ado.Net](https://img.shields.io/badge/ADO.NET-%234ea94b?style=for-the-badge&logo=ADO.NET&logoColor=white) 
   ![LinQ](https://img.shields.io/badge/LINQ-5C2D59?style=for-the-badge&logo=LINQ&logoColor=white) 
   ![EntityFramwork](https://img.shields.io/badge/ENTITY-FRAMEWORK-5C2D9c?style=for-the-badge&logo=EntityFrameWork&logoColor=white) 
-  <!-- ![CrystalReport](https://img.shields.io/badge/CRYSTAL-REPORT-5C2D55?style=for-the-badge&logo=CrystalReport&logoColor=white) --> -->
-   <!--
+  <!-- ![CrystalReport](https://img.shields.io/badge/CRYSTAL-REPORT-5C2D55?style=for-the-badge&logo=CrystalReport&logoColor=white) --> 
+  
   #### Java Technology:
   ![SpringBoot](https://img.shields.io/badge/spring-boot-5E5A80.svg?style=for-the-badge&logo=spring-boot&logoColor=white) 
   ![Hibernate](https://img.shields.io/badge/hibernate-4B0150.svg?style=for-the-badge&logo=hibernate&logoColor=white) 
@@ -82,7 +81,7 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
   
 <!--   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)  -->
 <!--   ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  -->
-<!--   ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)  --> -->
+<!--   ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)  --> 
 
 <!--   #### Python Technology:
   ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
@@ -93,8 +92,7 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
   ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  -->
 <!--   ![Django](https://img.shields.io/badge/django-4B0150.svg?style=for-the-badge&logo=django&logoColor=white)  -->
  
-   <!--
-   
+ 
   #### Databases:
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -102,15 +100,15 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
   ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) -->
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
   
-   <!--
+
   #### Software Testing:
   
   ![UnitTesting](https://img.shields.io/badge/UNIT-TESTING-5E5A80.svg?style=for-the-badge&logo=UNIT-TESTING&logoColor=white) 
   ![IntegrationTesing](https://img.shields.io/badge/INTEGRATION-TESTING-FF6C37.svg?style=for-the-badge&logo=INTEGRATION-TESTING&logoColor=white) 
   ![SystemTesting](https://img.shields.io/badge/SYSTEM-TESTING-%23D42029.svg?style=for-the-badge&logo=SYSTEM-TESTING&logoColor=white)
-  -->
+
   
    <!--
   #### OS & Tools:
@@ -131,7 +129,6 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-  -->
   -->
   <!-- [Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) -->
  
@@ -176,3 +173,5 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
     ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
     ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) 
     ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) -->
+
+      -->
