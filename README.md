@@ -6,6 +6,7 @@ I have experienced to developed many project in different company and freelancin
 Some major project are Payment Gateway system, tourist management system(ERP), Education management system(ERP), SMS-Gateway application (web and app), developed Stock, inventory, Core Accounting Software(Desktop Based) and many Ecommerce web application.
 
 Follow me
-
+```
 LinkedIn: https://www.linkedin.com/in/yeasin-eng/
 Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=yeasin-eng
+```
