@@ -8,3 +8,4 @@ Some major project are Payment Gateway system, tourist management system(ERP), E
 Follow me
 
 LinkedIn: https://www.linkedin.com/in/yeasin-eng/
+Follow me on LinkedIn: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=yeasin-eng
