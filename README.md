@@ -5,5 +5,5 @@ I can learn to any technology very quickly and ability to developing complete pr
 I have experienced to developed many project in different company and freelancing team. 
 Some major project are Payment Gateway system, tourist management system(ERP), Education management system(ERP), SMS-Gateway application (web and app), developed Stock, inventory, Core Accounting Software(Desktop Based) and many Ecommerce web application.
 
-Follow me
+Lets connect
 LinkedIn: https://www.linkedin.com/in/yeasin-eng/
