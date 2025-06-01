@@ -1,4 +1,4 @@
-# 👋 Hi, I'm MD Eyasin
+# 👋 Hi, I'm Mohammad Eyasin
 
 💼 **Tech Lead & Software Architect**  
 🚀 **Currently at Dev.net Software Solution**  
