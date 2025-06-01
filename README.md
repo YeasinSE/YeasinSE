@@ -1,12 +1,34 @@
-## 💫 About Me:
-Hi 👋, I'm MD Eyasin, serve as a back-end software engineer from bangladesh. 
-A highly experienced and creative developer with 10+ years’ experience in a variety of exciting project. 
-I can learn to any technology very quickly and ability to developing complete project on one hand. 
-I have experienced to developed many project in different company and freelancing team. 
-Some major project are Payment Gateway system, tourist management system(ERP), Education management system(ERP), HRM and Payroll System, SMS-Gateway application (web and app), developed Stock, inventory, Core Accounting Software(Desktop Based), many Ecommerce web application and industrial database software application.
+# 👋 Hi, I'm MD Eyasin
 
-Lets connect
-LinkedIn: https://www.linkedin.com/in/yeasin-eng/
+💼 **Tech Lead & Software Architect**  
+🚀 **Currently at Dev.net Software Solution**  
+🧠 **10+ Years of Building Scalable, Maintainable Software**
+
+---
+
+I'm a passionate software architect and team lead with deep experience in backend, frontend, DevOps, and system design. I’ve led the development of large-scale platforms across FinTech, ERP, SaaS, and E-commerce — from initial architecture to production deployment.
+
+## 🔧 Notable Projects
+- 💳 **Payment Gateways** – Secure, PCI-compliant systems
+- 🧳 **Tourism ERP**, 🎓 **Education ERP**
+- 👨‍💼 **HRM & Payroll Platforms**
+- 💬 **SMS Gateway** (web + mobile)
+- 🖥️ **Accounting & Inventory Desktop Apps**
+- ☁️ **SaaS & Multi-Tenant Platforms**
+- 🛒 **Marketplaces & E-commerce**
+- 🧱 **Internal SDKs & Dev Tools**
+
+## 🧠 Core Skills
+- System architecture & clean design
+- Engineering leadership & agile delivery
+- DevOps, CI/CD & performance tuning
+- Mentorship & technical team growth
+
+---
+
+📫 **Let’s connect:**  
+🔗 [LinkedIn]( https://www.linkedin.com/in/yeasin-eng/)
+
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YeasinSE" alt="yeasin-se" /></a> </p> -->
 
