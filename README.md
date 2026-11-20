@@ -1,44 +1,43 @@
-# 👋 Hi, I'm Mohammad Eyasin
+# Software & Systems Architect
 
-💼 **Tech Lead & Software Architect**  
-🚀 **Currently at Dev.net Software Solution**  
-🧠 **10+ Years of Building Scalable, Maintainable Software**
+**Founder & CTO · Enginuity Systems | Tech Lead & Architect · Dev.Net SS**
 
----
+I design and engineer technology solutions that connect software, infrastructure, data and intelligent systems.
 
-I'm a passionate software architect and team lead with deep experience in backend, frontend, DevOps, and system design. I’ve led the development of large-scale platforms across FinTech, ERP, SaaS, and E-commerce — from initial architecture to production deployment.
+My professional experience spans FinTech, ERP, SaaS and E-commerce platforms, with involvement across the technology lifecycle — from architectural planning and system design to engineering, deployment and production operations.
 
-## 🔧 Notable Projects
-- 💳 **Payment Gateways** – Secure, PCI-compliant systems
-- 🧳 **Tourism ERP**, 🎓 **Education ERP**
-- 👨‍💼 **HRM & Payroll Platforms**
-- 💬 **SMS Gateway** (web + mobile)
-- 🖥️ **Accounting & Inventory Desktop Apps**
-- ☁️ **SaaS & Multi-Tenant Platforms**
-- 🛒 **Marketplaces & E-commerce**
-- 🧱 **Internal SDKs & Dev Tools**
-
-## 🧠 Core Skills
-- System architecture & clean design
-- Engineering leadership & agile delivery
-- DevOps, CI/CD & performance tuning
-- Mentorship & technical team growth
+I approach technology from a systems perspective, combining architectural thinking, engineering practices and technical leadership to transform complex business requirements into reliable, scalable, secure and sustainable solutions.
 
 ---
 
-📫 **Let’s connect:**  
-🔗 [LinkedIn]( https://www.linkedin.com/in/yeasin-eng/)
+## Areas of Focus
 
+- **Software & Enterprise Architecture** — Designing scalable software architectures, enterprise applications and distributed systems. Establishing architectural standards, defining technical direction, evaluating engineering approaches and translating complex business requirements into maintainable technology solutions.
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YeasinSE" alt="yeasin-se" /></a> </p> -->
+- **Systems & Infrastructure Engineering** — Architecting and managing reliable IT environments across server infrastructure, operating systems, networking, storage and enterprise services. Connecting infrastructure components to support availability, performance, operational continuity and business requirements.
 
+- **Cloud-Native & Platform Engineering** — Designing modern application platforms and deployment architectures, with an emphasis on containerisation, orchestration, automation, infrastructure management and reliable software delivery. Improving scalability, operational efficiency and consistency across development and production environments.
 
-<!--
-<h3 align="left">Languages:</h3>
+- **Cybersecurity & Resilient Systems** — Integrating security principles throughout software and infrastructure lifecycles. Focusing on secure architecture, application security, vulnerability assessment, security operations, threat awareness, incident recovery and strengthening system resilience.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YeasinSE&show_icons=true&locale=en&layout=compact" alt="YeasinSE" /></p>
+- **Data Engineering, Science & Intelligent Systems** — Developing knowledge and practical capabilities in data engineering, statistical analysis, machine learning and artificial intelligence. Exploring data-driven applications, large language models, retrieval-augmented generation and intelligent systems as part of continuous learning and future-oriented skill development.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YeasinSE&show_icons=true&locale=en" alt="YeasinSE" /></p>
+- **Technology Leadership & Engineering Strategy** — Leading technical direction, architectural decision-making and engineering practices. Bridging business objectives with technical execution, encouraging knowledge sharing, improving development processes and guiding teams towards sustainable engineering outcomes.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YeasinSE&" alt="YeasinSE" /></p>
--->
+---
+
+## Engineering Approach
+
+My approach to engineering is built around a few fundamental principles:
+
+- **Architecture Before Complexity** — Establishing clear structures and sound technical foundations before introducing unnecessary complexity.
+- **Engineering for Reliability** — Building systems that remain dependable, maintainable and resilient as requirements and workloads evolve.
+- **Security by Design** — Considering security, privacy and risk throughout the design and development lifecycle.
+- **Scalability with Purpose** — Making architectural decisions that support real business needs and future growth.
+- **Continuous Improvement** — Embracing research, experimentation, automation and evolving engineering practices.
+
+---
+
+**Building Reliable Systems. Engineering Scalable Solutions.**
+
+*Architecture · Engineering · Innovation*
